@@ -38,4 +38,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="35" height="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="35" height="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" height="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="35" height="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="35" height="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="35" height="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="35" height="35" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sander-Wauters&theme=gruvbox)
+![Sander-Wauters's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sander-Wauters&theme=gruvbox&hide_border=true)
+
+![Sander-Wauters's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sander-Wauters&theme=gruvbox&show_icons=true&hide_border=true)
